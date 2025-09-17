@@ -55,7 +55,10 @@ Think of it as my personal playground to explore datasets, test methods, and sha
   ✅ Interactive scatter plots showing **Predicted vs Actual Solar Output**.  
 - **Insight:**  
   ✅ Irradiance remains the most influential factor in predicting Solar Output.  
-  ✅ The dashboard makes it easier to explore model performance on specific dates.  
+  ✅ The dashboard makes it easier to explore model performance on specific dates.
+
+  ⚠️ Note: This notebook contains interactive widgets that may not render properly on GitHub.  
+If you’d like to explore the full interactive version, feel free to reach out to me directly 😉
     
 *(More mini projects will be added soon!)*
 
