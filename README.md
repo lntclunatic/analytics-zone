@@ -16,7 +16,7 @@ Think of it as my personal playground to explore datasets, test methods, and sha
   ✅ Descriptive statistics of irradiance, temperature, humidity, and solar output.
 
   ✅ Handling missing values and outliers.
-
+  
   ✅ Correlation analysis and interpretation.
 - **Result:** Irradiance has the strongest positive correlation with solar output, while humidity shows a weak negative effect.
 
@@ -37,6 +37,25 @@ Think of it as my personal playground to explore datasets, test methods, and sha
   ✅ Irradiance is the most significant predictor of solar output.  
   ✅ Day Number has almost no effect.  
   ✅ The multivariate model slightly improves accuracy compared to the simple model.
+
+  ### 3. Solar Energy Interactive Regression Dashboard
+- **Focus:** Extending regression analysis with an interactive dashboard.  
+- **Methods:**
+
+  ✅ Multiple Linear Regression (Irradiance, Temperature, Humidity → Solar Output)  
+  ✅ Evaluation Metrics:
+  
+    => MAE  : ~0.14  
+    => RMSE : ~0.17  
+    => MAPE : ~16%  
+- **Dashboard Features:**
+
+  ✅ Built with **Plotly** and **ipywidgets**.  
+  ✅ Dropdown menu to select specific dates.  
+  ✅ Interactive scatter plots showing **Predicted vs Actual Solar Output**.  
+- **Insight:**  
+  ✅ Irradiance remains the most influential factor in predicting Solar Output.  
+  ✅ The dashboard makes it easier to explore model performance on specific dates.  
     
 *(More mini projects will be added soon!)*
 
